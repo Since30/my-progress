@@ -1,0 +1,23 @@
+.home {
+    background:url('../Asset/JET.jpg');
+    background-size: cover;
+    padding:20px;
+    margin: 0;
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    font-size: 1.5em;
+    font-weight: bold;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    text-shadow: 0 0 0.1em #000;
+    box-shadow: 0 0 0.1em #000;
+    
+}
+
+

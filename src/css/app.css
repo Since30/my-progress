@@ -1,0 +1,11 @@
+@import './home.css';
+@import './menu.css';
+@import './gallery.css';
+@import './footer.css';
+@import './contact.css';
+@import './price.css';
+
+* {
+    box-sizing: border-box;
+   
+}
