@@ -65,7 +65,14 @@
     box-shadow: 0 0 0.1em #fff;
 }
 
-@media screen and (max-width: 768px){
+@media screen and (max-width: 1281px){
+    .logo{
+display: block;
+position: relative;
+top: 0;
+width:85%;
+margin: 0 auto;
+    }
     .menu{
         flex-direction: column;
         justify-content: center;
@@ -87,7 +94,6 @@
         box-shadow: 0 0 0.1em #fff;
     }
 }
-
 
     
 
